@@ -1,6 +1,6 @@
-# 📚 Pertemuan Kesepuluh - Aplikasi Laporan dengan iReport dan JasperReport pada Java Swing 
+# 📚 Pertemuan Kesepuluh - Aplikasi Laporan dengan IReport dan JasperReport pada Java Swing 
 ## 📑 Topik Utama 
-Langkah - langkah membuat laporan dengan menggunakan iReport dan JasperReport pada Java Swing 
+Langkah - langkah membuat laporan dengan menggunakan IReport dan JasperReport pada Java Swing 
 
 ## 🖥️ Daftar Isi 
 - [Java Swing MataKuliah](https://github.com/fauziaeka/TugasPBO_TM10/blob/main/FrameMataKuliah.java)
@@ -9,8 +9,8 @@ Langkah - langkah membuat laporan dengan menggunakan iReport dan JasperReport pa
 - [ReportMataKuliah.Jasper](https://github.com/fauziaeka/TugasPBO_TM10/blob/main/PBO_TM10.jasper)
 - [ReportMataKuliah.jrxml](https://github.com/fauziaeka/TugasPBO_TM10/blob/main/PBO_TM10.jrxml)
 
-## Langkah - langkah 
-1.	Membuat project baru dengn nama “PBO_TM10”
+## 🐾 Langkah - Langkah 
+1.	Membuat project baru dengan nama “PBO_TM10”
 
 ![image](https://github.com/user-attachments/assets/4ef0196c-086f-4f7d-8c00-05abb955e319)
 
@@ -20,7 +20,7 @@ Langkah - langkah membuat laporan dengan menggunakan iReport dan JasperReport pa
 
 ![image](https://github.com/user-attachments/assets/92cb91c0-f22d-443f-b6ed-3c16c46a0319)
 
-3.	Membuat desain pada Jframe Form 
+3.	Membuat desain pada JFrame Form 
 
 ![image](https://github.com/user-attachments/assets/f300719c-073c-4db0-9f46-28402d3ec8f7)
 
@@ -72,11 +72,13 @@ public class MataKuliahDB {
 ```
 
 5.	Membuat database baru dengan nama “PBO_TM10”
+   
    ![image](https://github.com/user-attachments/assets/24e4f257-dc3f-40a3-bafa-e08a8cf3cddc)
   	
    ![image](https://github.com/user-attachments/assets/4b284dcc-ea4e-4504-9ada-5ec8879ff025)
    
    •	Masukkan query 
+   
    ![image](https://github.com/user-attachments/assets/f2c7b7d0-31ab-44e5-94f6-0ee176a28e93)
 
    ![image](https://github.com/user-attachments/assets/852e164c-558d-48a3-9e9d-7aaadb61fa5a)
@@ -115,21 +117,22 @@ public class MataKuliahDB {
   	
     ![image](https://github.com/user-attachments/assets/84cf9921-428f-4a6c-8e49-9b9218d30ec3)
 
-8.	Tambahkan library untuk Jasper Report
+7.	Tambahkan library untuk Jasper Report
    
    ![image](https://github.com/user-attachments/assets/55b589a7-5c0f-4716-bef9-cfb25c71a22c)
 
-9.	Tambahkan plugin Ireport 
-  a.	Klik Tools, pilih plugins
+8.	Tambahkan plugin IReport
+    
+   a.	Klik Tools, pilih plugins
 
   ![image](https://github.com/user-attachments/assets/208dc147-4d27-48d2-8831-b560704deb68)
 
 
-  b.	Pilih tab downloaded, kemudian klik Add plugins pilih file yang ingin ditambahkan lalu klik ctrl+A dan tekan open
+  b.	Pilih tab downloaded, klik Add plugins kemudian pilih file yang ingin ditambahkan lalu klik ctrl+A dan tekan open
   
   ![image](https://github.com/user-attachments/assets/6adb9dc0-eef8-43d7-97dd-e00a3ab123e8)
 
-10.	Membuat file laporan
+9.	Membuat file laporan
 
   a.	Buat class baru untuk design reportnya dengan cara klik kanan pada package ‘pbo_tm10’ kemudian pilih ‘new’ dan pilih ‘report wizard’
   
@@ -139,7 +142,7 @@ public class MataKuliahDB {
   
   ![image](https://github.com/user-attachments/assets/6fcb41ba-9f83-4144-b65e-cacfdb6775c8)
 
-  c.	Sambungkan ke database yang telah disiapkan, klik next. Kemudian masukkan nama databse, username, dan password lalu klik next
+  c.	Sambungkan ke database yang telah disiapkan, klik next. Kemudian masukkan nama database, username, dan password lalu klik next
   
   ![image](https://github.com/user-attachments/assets/cba7c67c-a694-4c5a-9775-6009e49287a3)
 
