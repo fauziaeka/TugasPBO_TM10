@@ -474,9 +474,7 @@ private void btnCetakActionPerformed(java.awt.event.ActionEvent evt) {
 
 14.	Hasil eksekusi Cetak data
     
-    ![image](https://github.com/user-attachments/assets/780f89cf-efbb-4242-b3b4-e6af7802dd57)
-
-    ![image](https://github.com/user-attachments/assets/48b9da7b-be77-416e-8d6a-82bdc99fcbb8)
+   ![image](https://github.com/user-attachments/assets/599d3a29-2b39-4b58-9844-37f13d410987)
 
 15.	Hasil eksekusi Exit
     
